@@ -1,0 +1,7 @@
+table video {
+  title varchar
+  thumbnail varchar
+  gif varchar
+  video varchar
+}
+
